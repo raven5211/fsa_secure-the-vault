@@ -1,3 +1,9 @@
+## important links:
+
+[source repo](https://github.com/FullstackAcademy/secure-the-vault.git)
+
+---
+
 # Secure the Vault
 
 You have been hired to secure a vault! You must ensure that the client's family heirlooms are stored safely. In this workshop, you will write JavaScript to correctly set the codes for the vault's combination lock.
